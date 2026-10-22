@@ -1,0 +1,10 @@
+python 02_train.py --timesteps 500000
+python 03_watch_trained.py --model models/lunar_lander_quick_hover --continuous
+
+
+copy this and create a new terminal
+Paste the copied text in the terminal 
+
+
+To stop the execution just delete the terminal
+ (>_o)
